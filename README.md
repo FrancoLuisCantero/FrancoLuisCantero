@@ -14,7 +14,7 @@
 ✔ Feel free to ask me anything! I’ll be happy to help.<br>
 ✔ I’m on a journey to deepen my knowledge of functional programming, building user interfaces, and data persistence strategies.<br>
 ✔ In my free time, I develop programs to solve mathematical puzzles, mostly using JavaScript or Python.<br>
-✔ You can email me at francocantero1234@gmail.com, and I’ll get back to you as soon as I can!<br>
+✔ You can email me at francocantero.f@gmail.com, and I’ll get back to you as soon as I can!<br>
 
 <br></br>
 
@@ -101,7 +101,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoLCantero&theme=dark" alt="FrancoLCantero" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoLuisCantero&theme=dark" alt="FrancoLuisCantero" /></p>
 
 </details>
   
@@ -110,9 +110,9 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/FrancoLCantero/github-readme-stats">
-	    <img alt="FrancoLCantero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrancoLCantero&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrancoLCantero&langs_count=10&show_icons=true&locale=en&theme=dark" alt="FrancoLCantero" height="230px"/>
+    <a href="https://github.com/FrancoLuisCantero/github-readme-stats">
+	    <img alt="FrancoLuisCantero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrancoLCantero&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrancoLuisCantero&langs_count=10&show_icons=true&locale=en&theme=dark" alt="FrancoLCantero" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -125,8 +125,8 @@
 	
 <div>
   <p align="center">
-   <a href="https://github.com/FrancoLCantero/FrancoLCantero.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoLCantero&repo=FrancoLCantero.github.io&theme=dark" alt="GitHub Stats" />
+   <a href="https://github.com/FrancoLuisCantero/FrancoLuisCantero.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoLuisCantero&repo=FrancoLuisCantero.github.io&theme=dark" alt="GitHub Stats" />
    </a>
   </p>
 </div>
